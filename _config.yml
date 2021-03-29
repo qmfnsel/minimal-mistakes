@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "이정진"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/20210327161107.1215061.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "파이썬 학습"
   location         : "어딘가"
   email            : "jjkkun@gmail.com"
